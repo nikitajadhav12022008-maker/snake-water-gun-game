@@ -23,12 +23,10 @@ This project uses basic Python concepts like loops, conditional statements, and 
 2. 2. Run the Python file:
    ```bash
    python SWG Game.py
-   📚 Concepts Used
+   
+📚 Concepts Used
 if-else
 loops
 random module
 user input
    
-3. Run the Python file:
-   ```bash
-   python snake_water_gun.py
