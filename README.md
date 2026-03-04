@@ -29,10 +29,10 @@ This project uses basic Python concepts like loops, conditional statements, and 
    -----------
    
 ##📚 Concepts Used:
-if-else
-loops
-random module
-user input
+-if-else
+-loops
+-random module
+-user input
 ----------
 
 ##👩‍💻Author:
