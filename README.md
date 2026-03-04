@@ -25,7 +25,7 @@ This project uses basic Python concepts like loops, conditional statements, and 
 1. Clone the repository
 2. 2. Run the Python file:
    ```bash
-   python SWG Game.py
+   python snake_water_gun_game.py
    -----------
    
 ##📚 Concepts Used:
