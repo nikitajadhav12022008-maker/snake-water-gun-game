@@ -22,17 +22,17 @@ This project uses basic Python concepts like loops, conditional statements, and 
 
 ## 📌 Features:
 
-- **User vs Computer gameplay
-- **Random computer choice
-- **Clear win/lose/draw output
-- **Beginner-friendly logic
-- 
+- User vs Computer gameplay
+- Random computer choice
+- Clear win/lose/draw output
+- Beginner-friendly logic
+   
   ---
 
 ## 🚀 How to Run:
 
 1. Clone the repository
-2. 2. Run the Python file:
+2. Run the Python file:
    ```bash
    python snake_water_gun_game.py
    
@@ -44,7 +44,7 @@ This project uses basic Python concepts like loops, conditional statements, and 
 - loops
 - random module
 - user input
-- 
+  
 ---
 
 ## 👩‍💻Author:
