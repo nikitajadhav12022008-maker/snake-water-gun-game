@@ -2,6 +2,7 @@
 
 A simple command-line based Snake Water Gun game built using Python.  
 This project uses basic Python concepts like loops, conditional statements, and random module.
+
 ----
 
 ## 🎮 Game Rules:
@@ -10,19 +11,22 @@ This project uses basic Python concepts like loops, conditional statements, and 
 - Water douses Gun → **Water wins**
 - Gun kills Snake → **Gun wins**
 - Same choices → **Draw**
+- 
 ----
 
 ## 🛠 Technologies Used:
 
 - Python 3
+  
 ----
 
 ## 📌 Features:
 
-- User vs Computer gameplay
-- Random computer choice
-- Clear win/lose/draw output
-- Beginner-friendly logic
+- **User vs Computer gameplay
+- **Random computer choice
+- **Clear win/lose/draw output
+- **Beginner-friendly logic
+- 
   ---
 
 ## 🚀 How to Run:
@@ -31,6 +35,7 @@ This project uses basic Python concepts like loops, conditional statements, and 
 2. 2. Run the Python file:
    ```bash
    python snake_water_gun_game.py
+   
    ----
    
 ## 📚 Concepts Used:
@@ -39,11 +44,13 @@ This project uses basic Python concepts like loops, conditional statements, and 
 - loops
 - random module
 - user input
+- 
 ---
 
 ## 👩‍💻Author:
 
 Nikita Jadhav
+
 ----
 
 ✨If you like this repository don't forget to star....
