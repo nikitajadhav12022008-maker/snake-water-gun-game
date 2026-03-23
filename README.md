@@ -11,7 +11,7 @@ This project uses basic Python concepts like loops, conditional statements, and 
 - Water douses Gun → **Water wins**
 - Gun kills Snake → **Gun wins**
 - Same choices → **Draw**
-- 
+  
 ----
 
 ## 🛠 Technologies Used:
