@@ -1,4 +1,4 @@
-# Python based snake water and gun game:
+#Python based snake water and gun game:
 #importing random
 import random as rd
 print("enter 1 for snake/2 for water/3 for gun:")
