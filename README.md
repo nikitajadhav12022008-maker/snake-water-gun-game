@@ -49,7 +49,7 @@ This project uses basic Python concepts like loops, conditional statements, and 
 
 ## 👩‍💻Author:
 
-Nikita Jadhav!
+Nikita Jadhav
 
 ----
 
