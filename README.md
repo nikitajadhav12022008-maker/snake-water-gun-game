@@ -29,6 +29,15 @@ This project uses basic Python concepts like loops, conditional statements, and 
    
   ---
 
+  ## 📚 Concepts Used:
+
+- if-else
+- loops
+- random module
+- user input
+  
+---
+
 ## 🚀 How to Run:
 
 1. Clone the repository
@@ -37,15 +46,6 @@ This project uses basic Python concepts like loops, conditional statements, and 
    python snake_water_gun_game.py
    
    ----
-   
-## 📚 Concepts Used:
-
-- if-else
-- loops
-- random module
-- user input
-  
----
 
 ## 👩‍💻Author:
 
